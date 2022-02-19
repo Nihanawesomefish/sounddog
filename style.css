@@ -1,0 +1,44 @@
+body{
+ font-family: 'Amatic SC', cursive;
+ background: #E2E8DD;
+ font-size: larger;
+}
+.header_div{
+background-color: rgb(255, 255, 255);
+color: #6b6b6b;
+font-size: 25px;
+}
+.header_div p {
+font-size: 30px;
+font-weight: bold;
+}
+.header_div h2 {
+font-size: 50px;
+color: slategray;
+font-weight: bolder;
+letter-spacing: 8px;
+}
+.main_div button{
+margin-top: 20px;
+width: 120px;
+font-size: 20px;
+font-weight: bolder;
+color:white;
+background-color: black;
+}
+.main_div h3{
+font-size: 40px;
+}
+.main_div h4{
+    font-size: 25px;
+    }
+.copy_right_footer{
+position: fixed;
+color: black;
+width: 100%;
+bottom: 0;
+text-align: center;
+font-size: 30px;
+width: 100%;
+text-shadow: 10px 10px 10px rgb(0, 0, 0);
+}
